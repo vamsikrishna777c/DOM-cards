@@ -1,0 +1,52 @@
+{
+	"details": {
+		"name": "Vamsi",
+		"mobile": "999999",
+		"eamil": "vamsi@gmail.com"
+	},
+	"mydata": [{
+		"name": "Vamsi krishna",
+		"mobile": "999999",
+		"eamil": "vamsi@gmail.com"
+	}, {
+		"name": "Vamsi kumar",
+		"mobile": "8888888",
+		"eamil": "vamsi@gmail.com"
+	}],
+	"resume":[{
+		"sno":"1",
+		"School/institute":"AP IIIT RGUKT RK valley",
+		"Degree":"B.Tech",
+		"CGPA":"8.1"
+	},
+	{
+		"sno":"2",
+		"School/institute":"AP IIIT RGUKT RK valley",
+		"Degree":"PUC",
+		"CGPA":"7.7"
+	},
+	{
+		"sno":"3",
+		"School/institute":"ZPHS PAPIREDDY GARI Palli",
+		"Degree":"Matriculation",
+		"CGPA":"9.3"
+	}
+	
+		
+	],
+	"founders":[
+		{
+			"name":"Jack",
+			"product":"twitter"
+		},
+		{
+			"name":"Larry",
+			"product":"Google"
+		},
+		{
+			"name":"B Eich",
+			"product":"JavaScript"
+		}
+	]
+
+}
